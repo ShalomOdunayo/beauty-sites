@@ -1,0 +1,25 @@
+Theme:
+Luxury Beauty Clinic
+
+Colors:
+#F8F5F2
+#D8C7B5
+#333333
+
+Font:
+Cormorant Garamond
+Inter
+
+Feeling:
+Elegant
+Minimal
+Premium
+
+Animations:
+Fade in
+Soft hover
+Large spacing
+
+Ideas:
+Rounded cards
+Gold buttons
